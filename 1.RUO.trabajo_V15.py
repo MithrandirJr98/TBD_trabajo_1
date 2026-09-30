@@ -277,3 +277,5 @@ print(f"{'-'*100}")
 #Comprobar que los puntajes también se actualizaron en el registro
 print("REGISTRO DESPUÉS DE LA COMPETENCIA\n")
 registro.mostrar_ranking_por_deporte("football")
+
+## este comentario solo existe para que este archivo quede como el último editado
